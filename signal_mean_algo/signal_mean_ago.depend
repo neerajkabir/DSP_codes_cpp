@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514140574 source:d:\neeraj segula\c++ work\dsp_proj\signal_mean_ago\main.cpp
+	<iostream>
+
+1560249792 source:d:\neeraj segula\c++ work\dsp_proj\signal_mean_ago\waveforms.c
+
+1560250438 source:d:\neeraj segula\c++ work\dsp_proj\signal_mean_algo\main.cpp
+	<iostream>
+
+1560249792 source:d:\neeraj segula\c++ work\dsp_proj\signal_mean_algo\waveforms.c
+

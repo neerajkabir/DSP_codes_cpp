@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1560249844 source:d:\neeraj segula\c++ work\dsp_proj\signal_statistics_class\waveforms.cpp
+
+1560326308 source:d:\neeraj segula\c++ work\dsp_proj\signal_statistics_class\main.cpp
+	<iostream>
+	"SignalStatistics.h"
+	<cmath>
+
+1560323609 d:\neeraj segula\c++ work\dsp_proj\signal_statistics_class\signalstatistics.h
+

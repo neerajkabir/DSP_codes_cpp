@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1560340525 source:d:\neeraj segula\c++ work\dsp_proj\signal_mean_robust\mean.cpp
+	"mean.h"
+	<stdint.h>
+
+1560339734 d:\neeraj segula\c++ work\dsp_proj\signal_mean_robust\mean.h
+	<stdint.h>
+
+1560249844 source:d:\neeraj segula\c++ work\dsp_proj\signal_mean_robust\waveforms.cpp
+
+1560340290 source:d:\neeraj segula\c++ work\dsp_proj\signal_mean_robust\main.cpp
+	<iostream>
+	"mean.h"
+
